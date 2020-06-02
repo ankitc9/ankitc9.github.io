@@ -2176,7 +2176,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url("../../images/chicago.jpg");
+		background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7) ),url("../../images/chicago_crop.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
