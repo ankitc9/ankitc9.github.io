@@ -210,8 +210,12 @@
 						$t._update();
 					}).trigger('resize');
 
+
+					
 				});
 
 		});
 
 })(jQuery);
+
+
