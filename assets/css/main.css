@@ -2582,7 +2582,7 @@ input, select, textarea {
 			}
 
 		.carousel .reel {
-			white-space: nowrap;
+			/*white-space: nowrap; */
 			position: relative;
 			-webkit-overflow-scrolling: touch;
 			padding: 0 2em 0 2em;
@@ -2643,8 +2643,10 @@ input, select, textarea {
 
 				.carousel article {
 					width: 18em;
-					margin: 0 1.25em 0 0;
+					margin: 0 1.25em 1.25em 0;
+					
 				}
+
 
 	}
 
@@ -2730,7 +2732,7 @@ input, select, textarea {
 
 				.carousel article {
 					width: 18em;
-					margin: 0 1em 0 0;
+					margin: 4em 5em 0 0;
 				}
 
 	}
