@@ -1,3 +1,3 @@
-# ankitc9.github.io
+# Portfolio
 Personal website.
 Click [here](ankitc9.github.io) to visit.
